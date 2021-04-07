@@ -1,2 +1,3 @@
 # curso-em-video-javascript
-Exercícios e desafios resolvidos do Curso de Javascript do Prof. Gustavo Guanabara
+
+Repositório com exercícios e desafios resolvidos do Curso de Javascript do Prof. Gustavo Guanabara para praticar.
